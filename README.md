@@ -26,3 +26,4 @@ Attributes:
 - origin: multi-valued discrete (FK)
 - car name: string (Unique values)
 
+Statistic analysis
